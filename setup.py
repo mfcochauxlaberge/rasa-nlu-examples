@@ -5,7 +5,7 @@ base_packages = [
     "rasa~=3.6.1",
     "bpemb>=0.3.2",
     "gensim~=4.3.2",
-    "tensorflow>=2.6.0",
+    "tensorflow>=2.11.0",
     "pandas>=1.0.0",
 ]
 
