@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 base_packages = [
-    "rasa~=3.5.8",
+    "rasa~=3.6.15",
     "bpemb>=0.3.4",
     "gensim~=4.3.1",
     "tensorflow-macos~=2.11.0",
